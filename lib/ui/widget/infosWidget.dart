@@ -18,11 +18,7 @@ class Infos extends StatelessWidget {
               height: 10,
             ),
             Text(
-              '2507 Avenue de l\'Europe',
-              style: TextStyle(fontSize: 14),
-            ),
-            Text(
-              '69140 Rillieux-la-Pape',
+              '2507 Avenue de l\'Europe\n69140 Rillieux-la-Pape',
               style: TextStyle(fontSize: 14),
             ),
             SizedBox(

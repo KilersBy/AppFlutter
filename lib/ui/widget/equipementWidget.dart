@@ -27,7 +27,7 @@ class Equipements extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text(titre ?? 'Pas de nom',
+            Text(titre ?? 'Nouvel Equipement',
                 style:
                     const TextStyle(fontWeight: FontWeight.bold, fontSize: 18)),
             const SizedBox(

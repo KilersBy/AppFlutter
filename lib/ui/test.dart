@@ -20,8 +20,7 @@ class Test extends StatelessWidget {
       floatingActionButton: FloatingActionButton(
         onPressed: () {
           equipementList.add(Equipement(
-              name: "OKMany $tailleEquipement",
-              numSerie: "2673829$tailleEquipement"));
+              name: "Nouvel Equipement", numSerie: "000000$tailleEquipement"));
           tailleEquipement++;
         },
       ),
